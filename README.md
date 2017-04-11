@@ -1,6 +1,6 @@
 # test-angular-flex-layout
 
-> The test application for angular flex layout
+> The test application for angular flex layout.
 
 ## Installation
 
@@ -24,4 +24,4 @@ localhost:4200
 
 The bundled flex package size is 101 kB.
 
-![](https://github.com/rgierczak/starter-angular-webpack/blob/master/src/assets/flex-layout-size.png)
+![](https://github.com/rgierczak/test-angular-flex-layout/blob/master/src/assets/flex-layout-size.png)
