@@ -25,3 +25,11 @@ localhost:4200
 The bundled flex package size is 101 kB.
 
 ![](https://github.com/rgierczak/test-angular-flex-layout/blob/master/src/assets/flex-layout-size.png)
+
+## Tests with code coverage
+
+```
+$ ng test --code-coverage
+```
+
+To see the test coverage results, open the index.html in already created `coverage` folder.
